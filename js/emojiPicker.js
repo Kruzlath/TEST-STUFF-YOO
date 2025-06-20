@@ -1,4 +1,4 @@
-(function() {
+ (function() {
   'use strict';
 
   // a simple await，until #chat-room-bot loaded
@@ -13,7 +13,7 @@
     // if (getComputedStyle(container).position === 'static') {
     //   container.style.position = 'relative';
     // }
-
+    alert("It's working!!")
     
 
     
